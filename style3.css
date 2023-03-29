@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(183, 182, 250);
+}
+div
+{
+    float:left;
+    margin-left:66px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+   
+
+
+}
+
+h2{
+    text-shadow:4px 4px 4px rgb(8, 108, 105);
+    text-decoration: dotted;
+    margin-left: 550px;
+
+}
+#tabletwo
+{
+   
+   width:1260px;
+   margin-left: 100px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#pp
+{
+   margin-left: 270px;
+   margin-top: 5px;
+   border-radius: 4px;
+   border-style: groove;
+   border-color: rgb(40, 11, 95);
+   margin-bottom: 10px;
+
+   box-shadow: 0px 0px 10px 10px #9382f2;
+}
+td:hover{
+    background-color:rgb(238, 175, 249);
+}
+
+a:hover{
+color:rgb(136, 105, 116);
+background-color: rgb(228, 151, 232);
+outline-offset: 4px;
+outline-style: dotted;
+outline-color: rgb(109, 13, 13);
+}

@@ -1,0 +1,25 @@
+#one
+{
+    box-shadow: 0px 0px 10px 10px rgb(254, 195, 234);
+    border:4px groove rgb(164, 108, 157);
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    font-weight: bolder;
+
+}
+body{
+    background-color: rgb(250, 241, 251);
+}
+tr:nth-child(even)
+{
+     background-color: rgb(242, 206, 253);
+
+}
+
+a:hover{
+    background-color: coral;
+    color: darkslategrey;
+}

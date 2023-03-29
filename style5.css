@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(240, 198, 180);
+}
+div
+{
+  float:left;
+  margin-left:66px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+h1{
+    text-shadow:4px 4px 4px rgb(117, 68, 8);
+    text-decoration: dotted;
+    margin-left: 550px;
+}
+
+#tabletwo
+{
+    width:1260px;
+    margin-left: 100px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ 
+}
+
+#tt
+{
+   margin-left: 320px;
+   margin-top: 5px;
+   border-radius: 4px;
+   border-style: groove;
+   border-color: rgb(235, 145, 36);
+   margin-bottom: 30px;
+   box-shadow: 0px 0px 10px 10px #f0834c;
+}
+
+td:hover{
+    background-color:rgb(203, 66, 8)
+}
+
+a:hover{
+color:rgba(110, 251, 124, 0.368);
+background-color: rgb(199, 21, 21);
+outline-offset: 4px;
+outline-style: dotted;
+outline-color: rgb(249, 13, 13);
+}

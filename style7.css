@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(205, 251, 219);
+}
+
+div
+{
+  float:left;
+  margin-left:96px;
+  margin-top: 40px;
+  margin-bottom: 10px;
+}
+h1{
+    text-shadow:4px 4px 4px rgb(42, 130, 50);
+    text-decoration: dotted;
+    margin-left: 530px;
+
+}
+#tabletwo
+{
+    width:1260px;
+    margin-left: 100px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+#tt
+{
+   margin-left: 360px;
+   margin-top: 15px;
+   border-radius: 4px;
+   border-style: groove;
+   border-color: rgb(115, 185, 160);
+   margin-bottom: 30px;
+   box-shadow: 0px 0px 10px 10px #8dedaa;
+}
+td:hover{
+    background-color: rgb(22, 135, 90);
+}
+a:hover{
+color:crimson;
+background-color: aquamarine;
+outline-offset: 4px;
+outline-style: dotted;
+outline-color: black;
+}
